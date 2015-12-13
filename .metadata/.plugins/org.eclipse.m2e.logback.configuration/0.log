@@ -196,3 +196,19 @@ Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was
 2015-12-13 16:03:58,766 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2015-12-13 16:03:58,791 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2015-12-13 16:03:58,803 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-13 16:06:09,981 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Amy\Desktop\devOps\buildServer
+2015-12-13 16:06:09,981 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2015-12-13 16:07:33,785 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Amy\Desktop\devOps\buildServer
+2015-12-13 16:07:33,794 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2015-12-13 16:12:50,853 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Cloudwick:buildServer:0.0.1-SNAPSHOT @ C:\Users\Amy\Desktop\devOps\buildServer\pom.xml.
+2015-12-13 16:12:51,259 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-13 16:12:51,341 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-13 16:12:51,352 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-13 16:12:51,369 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-13 16:12:52,540 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-13 16:12:52,549 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-13 16:12:52,551 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-12-13 16:12:52,562 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-12-13 16:12:56,549 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-12-13 16:12:56,670 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Amy\Desktop\devOps\buildServer
+2015-12-13 16:12:56,677 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
