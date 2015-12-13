@@ -1,0 +1,14 @@
+package buildServer;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class addTest {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}
