@@ -85,3 +85,28 @@ Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/sAMpZ/
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2015-12-13 14:51:08.625
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-12-13 15:02:24.782
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-12-13 15:02:24.805
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2015-12-13 15:10:05.706
+!MESSAGE Could not read pom.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2015-12-13 15:10:05.899
+!MESSAGE Failed to read Maven project: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM C:\Users\Amy\Desktop\devOps\buildServer\pom.xml: processing instruction can not have PITarget with reserveld xml name (position: START_DOCUMENT seen \r\n\r\n<?xml ... @3:7)  @ line 3, column 7
+ for project  at C:\Users\Amy\Desktop\devOps\buildServer\pom.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2015-12-13 15:10:05.920
+!MESSAGE Failed to read Maven project: 1 problem was encountered while building the effective model
+[FATAL] Non-parseable POM C:\Users\Amy\Desktop\devOps\buildServer\pom.xml: processing instruction can not have PITarget with reserveld xml name (position: START_DOCUMENT seen \r\n\r\n<?xml ... @3:7)  @ line 3, column 7
+ for project  at C:\Users\Amy\Desktop\devOps\buildServer\pom.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-12-13 15:10:12.116
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-12-13 15:10:12.151
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
